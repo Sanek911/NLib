@@ -8,5 +8,9 @@ namespace NecessaryLib
 {
     public class Class1
     {
+        public static string ShowHelloWorld()
+        {
+            return "Hello world";
+        }
     }
 }
